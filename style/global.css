@@ -1,0 +1,403 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Raleway:ital,wght@1,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;  
+}
+.conteiner{
+    width: 81%;
+    margin: 0 auto;
+}
+
+.header p {
+    display: flex;
+    justify-content: center;
+    color: #d49284;
+    padding: 15px;
+}
+
+.hgyu a{
+    text-decoration: none;
+}
+
+
+.sdd {
+    padding: 7px;
+}
+
+.uugtgyy a {
+    text-decoration: none;
+}
+
+.yuh  a {
+    text-decoration: none;
+}
+
+.uhii a {
+    text-decoration: none;
+}
+
+.dsdsdff{
+    padding: 7px;
+}
+
+.dsdsdff a { 
+    text-decoration: none;
+}
+
+
+
+.wraper{
+ width:100% ;   
+}
+.usa{
+    width: 100%;
+    height: 50px;
+    background: #B36050;
+}
+.f{
+    width: 100%;
+    height: 50px;
+    display: flex;
+
+}
+.parents{
+    width: 350px;
+    border: 0px solid black;
+    display: flex;
+    padding: 10px;
+
+}
+.sdd  a{
+padding: 10px;
+color:  #B36050;;
+
+}
+.ddf{
+    width: 70%;
+   
+display: flex;
+    justify-content: center;
+}
+.kjjn{
+    width: 300px;
+    display: flex;
+    justify-content: flex-end;
+ 
+    color: #B36050;
+}
+
+.wraper{
+    background-color: #fad9d2;
+}
+
+.kjjn {
+    padding: 7px;
+}
+
+.kjjn a{
+    padding: 10px;
+       text-decoration: none;
+       color: #B36050;
+}
+
+.fdfdhf img {
+   width: 80%;
+}
+
+.frame img {
+    width: 1536px;
+height: 435px;
+top: 117px;
+
+}
+
+.box {
+    background-color: #A9AE8D;
+    width:1538px;
+    height: 338px;
+}
+
+.box h1 {
+    padding: 45px;
+    color: white;
+    font-size: larger;
+    font: 1em sans-serif;
+}
+
+.box h2 {
+    padding: 35px;
+    color: white;
+    font-size: larger;
+    font: 3em sans-serif;
+}
+
+.box p {
+    padding:0 60px; 
+    color: white;
+    font-size: larger;
+    font: 1em sans-serif; 
+}
+
+.ttext{
+    background-color:rgb(238, 232, 222) ;
+}
+
+.ttext h1{
+   display: flex;
+   justify-content: center;
+   padding: 35px;
+   color: #B45F4D;
+   font-size: xx-small;
+   font: 2em sans-serif;
+
+}
+
+.container3{
+    display: flex;
+    background-color:rgb(238, 232, 222) ;
+    padding:0 85px;
+}
+
+.ffram {
+    padding:35px ;
+}
+
+.text1 h1 {
+    color:#B45F4D ;
+    font-size: larger;
+    padding-top: 15px;
+}
+
+.text1 h2 {
+   padding-top: 15px;
+    color:#B45F4D ;
+    font-size: larger;
+}
+
+.ffram img {
+padding-top: 15px;
+
+}
+
+.ig img {
+    padding-top: 15px;
+    padding:0 310px;
+}
+
+.oop img {
+    width:989px;
+    height: 314px;
+    margin: 45px 15px 15px 255px ;
+}
+
+.box1{
+    background-color: #DF9B7A;
+    width:989px;
+    height: 92px;
+    margin: -55px 15px -0px 255px ;
+}
+
+.box1 h1 {
+    display: flex;
+    padding: 55px;
+    font-size: larger;
+    color:white;
+}
+
+.box1 h2 {
+    display: flex;
+    margin: -75px 15px 15px 865px  ;
+    font-size: larger;
+    color:white;
+}
+
+.ioioo img {
+    margin: 55px 15px 15px 55px ;
+}
+
+
+
+.textr h1 {
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: larger;
+    font: 3em sans-serif;
+}
+
+.i img {
+   margin: 15px 15px 11px 229px ;
+}
+.dd {
+    background-color: #e7deb8;
+    padding:0 250px;
+  }
+  .section11 {
+    margin-left: 400px;
+}
+  .section12 p {
+    display: inline;
+    color: #b36050;
+  }
+  .section12 {
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+  .section_10 {
+    display: flex;
+  }
+  .color  {
+    color: #b36050;
+  }
+
+  ul {
+    list-style: none;
+    color: #b36050;
+  }
+
+
+  .section11 p {
+    color: #b36050;
+  }
+  .input {
+    padding-left: 420px;
+    border:15px ;
+  }
+
+  @font-face{
+    font-family: "Oswald-VariableFont";
+    src: url(/font/Oswald-VariableFont_wght.ttf);
+  }
+
+  nav {
+    font-family: "Oswald-VariableFont";
+  }
+
+  .aaaa {
+    font-family: "Oswald-VariableFont";
+  }
+
+  .images {
+    font-family: "Oswald-VariableFont";
+  }
+
+  .images1 {
+    font-family: "Oswald-VariableFont";
+  }
+
+  .llanggu{
+    font-family: "Oswald-VariableFont";
+  }
+
+  .ccsss {    
+     font-family: "Oswald-VariableFont";
+    }
+
+   .ussr{
+    font-family: "Oswald-VariableFont";
+   } 
+
+   .uull{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .guhiui {
+    font-family: "Oswald-VariableFont";
+   }
+
+   .ctrl {
+    font-family: "Oswald-VariableFont";
+   }
+
+   .cfc {
+    font-family: "Oswald-VariableFont";
+   }
+
+   .sas {
+    font-family: "Oswald-VariableFont";
+   }
+
+   .english{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .zzszs{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .cllas {
+    font-family: "Oswald-VariableFont";
+   }
+
+   .yguygu{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .gggggggg{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .Careers {
+    font-family: "Oswald-VariableFont";
+   }
+
+   .cham{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .Aalanguage{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .uuttu{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .ifotfo{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .uftu7f{
+    font-family: "Oswald-VariableFont";
+   }
+
+  .bleach{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .fofouy{
+    font-family: "Oswald-VariableFont";
+   } 
+
+   .igyg{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .lanch{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .igouog{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .khiy{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .fout{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .igoygpg{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .free{
+    font-family: "Oswald-VariableFont";
+   }
+
+   .natrrr{
+    font-family: "Oswald-VariableFont";
+   }
